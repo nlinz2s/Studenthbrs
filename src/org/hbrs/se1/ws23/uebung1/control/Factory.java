@@ -4,4 +4,8 @@ public class Factory {
     public Translator crateTranslator(){
        return new GermanTranslator();
     }
+
+    public void crate(){
+
+    }
 }
